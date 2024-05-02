@@ -2,7 +2,7 @@ Sure, here's how you could describe the Terraform script in a README file:
 
 ---
 
-## Terraform Script for Launching EC2 Instance
+## Terraform Script for Launching Free Tier EC2 Instance (Ubuntu Server)
 
 This Terraform script automates the process of launching an EC2 instance on AWS. Below is a breakdown of the script components:
 
